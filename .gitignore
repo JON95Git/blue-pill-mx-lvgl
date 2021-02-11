@@ -1,0 +1,7 @@
+workspacestm32.code-workspace
+.vscode
+.settings
+.cproject
+.project
+build
+blue-pill-mx-lvgl.code-workspace
